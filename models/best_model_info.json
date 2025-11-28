@@ -1,0 +1,15 @@
+{
+    "best_model_name": "Random Forest",
+    "best_params": {
+        "n_estimators": 100,
+        "min_samples_split": 10,
+        "min_samples_leaf": 5,
+        "max_features": "log2",
+        "max_depth": 15,
+        "class_weight": "balanced_subsample"
+    },
+    "original_f1": 0.5680933852140078,
+    "tuned_f1": 0.5483870967741935,
+    "improvement_pct": -3.4688466637207287,
+    "cv_f1_score": 0.931013568882835
+}

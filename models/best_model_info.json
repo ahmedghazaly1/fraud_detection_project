@@ -8,8 +8,8 @@
         "max_depth": 15,
         "class_weight": "balanced_subsample"
     },
-    "original_f1": 0.5680933852140078,
-    "tuned_f1": 0.5483870967741935,
-    "improvement_pct": -3.4688466637207287,
-    "cv_f1_score": 0.931013568882835
+    "original_recall": 0.7227722772277227,
+    "tuned_recall": 0.6732673267326733,
+    "recall_improvement_pct": -6.849315068493142,
+    "cv_recall_score": 0.9564910163861672
 }

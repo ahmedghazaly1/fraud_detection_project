@@ -1,0 +1,13 @@
+{
+    "best_model_name": "Logistic Regression",
+    "best_params": {
+        "solver": "liblinear",
+        "penalty": "l1",
+        "class_weight": "balanced",
+        "C": 0.001
+    },
+    "original_recall": 0.8118811881188119,
+    "tuned_recall": 0.9900990099009901,
+    "recall_improvement_pct": 21.951219512195113,
+    "cv_recall_score": 0.9840243538801862
+}
